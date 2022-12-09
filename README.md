@@ -21,8 +21,8 @@ ___
 | 05 |  | [Day_05](https://github.com/HappyBravo/AOC2022/tree/master/Day_05) | ★★ |
 | 06 |  | [Day_06](https://github.com/HappyBravo/AOC2022/tree/master/Day_06) | ★★ |
 | 07 |  | [Day_07](https://github.com/HappyBravo/AOC2022/tree/master/Day_07) | ★★ |
-| 08 |  |  | ☆☆ |
-| 09 |  |  | ☆☆ |
+| 08 |  | [Day_08](https://github.com/HappyBravo/AOC2022/tree/master/Day_08) | ☆☆ |
+| 09 |  | [Day_09](https://github.com/HappyBravo/AOC2022/tree/master/Day_09) | ☆☆ |
 | 10 |  |  | ☆☆ |
 | 11 |  |  | ☆☆ |
 | 12 |  |  | ☆☆ |
