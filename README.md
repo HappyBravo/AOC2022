@@ -9,7 +9,7 @@ ___
 ___
 
 ![](https://img.shields.io/badge/day%20📅-13-blue)
-![](https://img.shields.io/badge/stars%20⭐-20-yellow)
+![](https://img.shields.io/badge/stars%20⭐-22-yellow)
 ### PROGRESS
 
 | Day | Name | Solution | Stars Earned |
@@ -24,7 +24,7 @@ ___
 | 08 |  | [Day_08](https://github.com/HappyBravo/AOC2022/tree/master/Day_08) | ★★ |
 | 09 |  | [Day_09](https://github.com/HappyBravo/AOC2022/tree/master/Day_09) | ★★ |
 | 10 |  | [Day_10](https://github.com/HappyBravo/AOC2022/tree/master/Day_10) | ★★ |
-| 11 |  | [Day_11](https://github.com/HappyBravo/AOC2022/tree/master/Day_11) | ☆☆ |
+| 11 |  | [Day_11](https://github.com/HappyBravo/AOC2022/tree/master/Day_11) | ★★ |
 | 12 |  | [Day_12](https://github.com/HappyBravo/AOC2022/tree/master/Day_12) | ☆☆ |
 | 13 |  | [Day_13](https://github.com/HappyBravo/AOC2022/tree/master/Day_13) | ☆☆ |
 | 14 |  |  | ☆☆ |
