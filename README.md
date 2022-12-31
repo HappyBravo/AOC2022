@@ -8,7 +8,7 @@ Here is the link to [AOC 2022](https://adventofcode.com/2022).
 ___
 ___
 
-![](https://img.shields.io/badge/day%20📅-21-blue)
+![](https://img.shields.io/badge/day%20📅-25-blue)
 ![](https://img.shields.io/badge/stars%20⭐-28-yellow)
 ### PROGRESS
 
@@ -35,7 +35,7 @@ ___
 | 19 |  | [Day_19](https://github.com/HappyBravo/AOC2022/tree/master/Day_19) | ☆☆ |
 | 20 |  | [Day_20](https://github.com/HappyBravo/AOC2022/tree/master/Day_20) | ☆☆ |
 | 21 |  | [Day_21](https://github.com/HappyBravo/AOC2022/tree/master/Day_21) | ☆☆ |
-| 22 |  |  | ☆☆ |
-| 23 |  |  | ☆☆ |
-| 24 |  |  | ☆☆ |
-| 25 |  |  | ☆☆ |
+| 22 |  | [Day_22](https://github.com/HappyBravo/AOC2022/tree/master/Day_22) | ☆☆ |
+| 23 |  | [Day_23](https://github.com/HappyBravo/AOC2022/tree/master/Day_23) | ☆☆ |
+| 24 |  | [Day_24](https://github.com/HappyBravo/AOC2022/tree/master/Day_24) | ☆☆ |
+| 25 |  | [Day_25](https://github.com/HappyBravo/AOC2022/tree/master/Day_25) | ☆☆ |
